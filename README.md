@@ -10,7 +10,7 @@ This repository contains beginner-level automation scripts written in **Java** u
 ## Tools Used
 - Java
 - Selenium WebDriver
-- IntelliJ IDEA (or Eclipse)
+- Eclipse
 
 ## About Me
 I am Srimathi, an aspiring QA Engineer learning test automation with Java and Selenium.  
